@@ -1,0 +1,26 @@
+## Arquivos do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Resultados de build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Ll]og/
+
+## Arquivos de pacotes
+packages/
+*.nupkg
+
+## Outros
+*.swp
+*.cache
+*.DS_Store
+Thumbs.db
