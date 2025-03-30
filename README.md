@@ -40,4 +40,4 @@
    ```
 4. Acesse a documentação Swagger em:
    ```
-   https://localhost:44376/swagger```
+   https://localhost:44376/swagger
